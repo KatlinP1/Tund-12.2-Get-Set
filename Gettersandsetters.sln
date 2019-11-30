@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gettersandsetters", "Gettersandsetters\Gettersandsetters.csproj", "{C5CBB941-F9E1-434D-8523-CE18B874ACA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieGetterSetters", "MovieGetterSetters\MovieGetterSetters.csproj", "{821122DA-C2F6-4E8C-BB42-EFF1573AF8F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CBB941-F9E1-434D-8523-CE18B874ACA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CBB941-F9E1-434D-8523-CE18B874ACA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CBB941-F9E1-434D-8523-CE18B874ACA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CBB941-F9E1-434D-8523-CE18B874ACA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821122DA-C2F6-4E8C-BB42-EFF1573AF8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821122DA-C2F6-4E8C-BB42-EFF1573AF8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821122DA-C2F6-4E8C-BB42-EFF1573AF8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821122DA-C2F6-4E8C-BB42-EFF1573AF8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
